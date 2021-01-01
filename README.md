@@ -8,9 +8,11 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
-The purpose is to provide simple examples for Git and GitHub.
+The purpose is to learn how to use Git and GitHub.
 
 ## Deployment
+
+There are no deployment instructions at this time.
 
 ## How To Contribute
 
