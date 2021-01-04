@@ -16,3 +16,7 @@ There are no deployment instructions at this time.
 
 ## How To Contribute
 
+### Copyright
+
+2014 Git.Training
+
